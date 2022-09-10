@@ -1,7 +1,7 @@
 ### _Hi there_ 👋✨
 
 
-**Welcome to** Ashleigh's ✨ _s`README.md`_ ✨ file!
+**Welcome to** Ashleigh's ✨ _`Github`_ portfolio ✨!
 
 - 🔭 I’m currently working on an e-commerce website for my small business!
 - 🌱 I’m currently learning React, Angular, and Django!
