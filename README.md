@@ -1,7 +1,7 @@
-### Hi there 👋
+### _Hi there_ 👋✨
 
 
-**ashleighliu/ashleighliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to** Ashleigh's ✨ _s`README.md`_ ✨ file!
 
 - 🔭 I’m currently working on an e-commerce website for my small business!
 - 🌱 I’m currently learning React, Angular, and Django!
