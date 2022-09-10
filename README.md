@@ -36,7 +36,7 @@ I'm Ashleigh! I'm a 2nd year at the University of Student who is double majoring
        />
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="Python" alt="Python" width="40"
        height="40"/>&nbsp;
- ---
+ 
   
   ### :eyeglasses: Currently Learning :3
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
