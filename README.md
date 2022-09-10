@@ -18,7 +18,7 @@ I am a 2nd year at the University of Student, double majoring in Computer Scienc
 
 - :zap: In my free time, I read tech articles, finance journals, and play games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ashleigh-liu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashleigh-liu/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ashleighliu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashleigh-liu/)
 
 ---
 
