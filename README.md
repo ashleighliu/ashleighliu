@@ -36,6 +36,8 @@ I'm Ashleigh! I'm a 2nd year at the University of Student who is double majoring
        />
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="Python" alt="Python" width="40"
        height="40"/>&nbsp;
+ ---
+  
   ### :hammer_and_wrench: Currently Learning :)
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
