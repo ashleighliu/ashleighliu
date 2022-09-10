@@ -38,7 +38,7 @@ I'm Ashleigh! I'm a 2nd year at the University of Student who is double majoring
        height="40"/>&nbsp;
  ---
   
-  ### :hammer_and_wrench: Currently Learning :)
+  ### :eyeglasses: Currently Learning :3
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
