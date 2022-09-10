@@ -10,7 +10,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a 2nd year at the University of Student, double majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Economics.
+I'm Ashleigh, a 2nd year at the University of Student who is double majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Economics.
 
 - :telescope: I'm extremely passionate about computer science!
 
