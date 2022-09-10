@@ -16,7 +16,7 @@ I'm Ashleigh! I'm a 2nd year at the University of Student who is double majoring
 
 - :seedling: I love working on new projects, learning new languages, frameworks, and ways to program.
 
-- :zap: In my free time, I read tech articles, finance journals, and play games.
+- :zap: In my free time, I read tech articles, finance journals, and watch anime.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ashleighliu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashleigh-liu/) ashleigh.liu@mail.utoronto.ca
 
