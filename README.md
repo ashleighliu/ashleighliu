@@ -54,8 +54,10 @@ I'm Ashleigh! I'm a Computer Science student at the University of Toronto <img s
 
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleighliu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashleighliu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashleighliu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleighliu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
