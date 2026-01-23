@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 I'm Ashleigh! I'm a software engineer, student, creative programmer, and TCG player. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- :telescope: I'm currently building [@HubSpot](https://www.hubspot.com/), and I graduated from [@University of Toronto](https://www.utoronto.ca/) with a degree in Computer Science in 2025.
+- :telescope: I'm currently working as a software engineer [@HubSpot](https://www.hubspot.com/), and I graduated from [@University of Toronto](https://www.utoronto.ca/) with a degree in Computer Science in 2025.
 
 - :seedling: I love working on new projects, learning new languages, frameworks, and ways to program.
 
